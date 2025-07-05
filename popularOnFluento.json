@@ -10,7 +10,7 @@
         "user": "Do you think humans will live on Mars in our lifetime?",
         "assistant": "That’s a fascinating question! With the pace of advancements in space technology, especially from companies like SpaceX, it’s definitely within the realm of possibility.",
         "userSpeechUri": "https://cdn.jsdelivr.net/gh/ArslanArda/fluento-data@3f14e8fcebc8412aeb5b950dc15c9b46d19f8182/ash_gpt-4o-mini-tts_1x_2025-07-05T10_35_08-171Z.wav",
-        "assistantSpeechUri": "file:///.../mars_question.wav",
+        "assistantSpeechUri": "https://cdn.jsdelivr.net/gh/ArslanArda/fluento-data@b56a172d2d6c084b5b6d302bbb7de330866d541a/ash_gpt-4o-mini-tts_1x_2025-07-05T10_36_49-408Z.wav",
         "userMessageBreakdown": {
           "summary": "A speculative question about the future of human colonization on Mars.",
           "breakdown": [
