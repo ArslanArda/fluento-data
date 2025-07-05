@@ -10,6 +10,7 @@
         "user": "Do you think humans will live on Mars in our lifetime?",
         "assistant": "That’s a fascinating question! With the pace of advancements in space technology, especially from companies like SpaceX, it’s definitely within the realm of possibility.",
         "userSpeechUri": "file:///.../mars_question.wav",
+        "assistantSpeechUri": "file:///.../mars_question.wav",
         "userMessageBreakdown": {
           "summary": "A speculative question about the future of human colonization on Mars.",
           "breakdown": [
@@ -52,6 +53,7 @@
         "user": "Do you think AI will eventually replace human jobs entirely?",
         "assistant": "AI will likely automate many tasks, but I believe it will also create new opportunities. It’s more about transformation than total replacement.",
         "userSpeechUri": "file:///.../ai_jobs.wav",
+        "assistantSpeechUri": "file:///.../mars_question.wav",
         "userMessageBreakdown": {
           "summary": "A question about the potential for AI to fully take over human employment.",
           "breakdown": [
@@ -94,6 +96,7 @@
         "user": "Why does music sometimes make us feel nostalgic or even bring tears to our eyes?",
         "assistant": "Music can trigger powerful emotional memories by activating parts of the brain associated with emotion and past experiences. It’s like a shortcut to our deeper feelings.",
         "userSpeechUri": "file:///.../music_emotion.wav",
+        "assistantSpeechUri": "file:///.../mars_question.wav",
         "userMessageBreakdown": {
           "summary": "A question exploring how music can evoke deep emotional responses.",
           "breakdown": [
