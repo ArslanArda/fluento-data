@@ -1,4 +1,5 @@
-en: {
+{
+  en: {
     English: "English",
     Turkish: "Turkish",
     Spanish: "Spanish",
@@ -32,4 +33,4 @@ en: {
     Spanish: "Espagnol",
     German: "Allemand",
     French: "Français",
-  },
+  }
