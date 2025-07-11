@@ -1,37 +1,37 @@
 {
-  en: {
-    English: "English",
-    Turkish: "Turkish",
-    Spanish: "Spanish",
-    German: "German",
-    French: "French",
+  "en": {
+    "English": "English",
+    "Turkish": "Turkish",
+    "Spanish": "Spanish",
+    "German": "German",
+    "French": "French",
   },
-  tr: {
-    English: "İngilizce",
-    Turkish: "Türkçe",
-    Spanish: "İspanyolca",
-    German: "Almanca",
-    French: "Fransızca",
+  "tr": {
+    "English": "İngilizce",
+    "Turkish": "Türkçe",
+    "Spanish": "İspanyolca",
+    "German": "Almanca",
+    "French": "Fransızca",
   },
-  es: {
-    English: "Inglés",
-    Turkish: "Turco",
-    Spanish: "Español",
-    German: "Alemán",
-    French: "Francés",
+  "es": {
+    "English": "Inglés",
+    "Turkish": "Turco",
+    "Spanish": "Español",
+    "German": "Alemán",
+    "French": "Francés",
   },
-  de: {
-    English: "Englisch",
-    Turkish: "Türkisch",
-    Spanish: "Spanisch",
-    German: "Deutsch",
-    French: "Französisch",
+  "de": {
+    "English": "Englisch",
+    "Turkish": "Türkisch",
+    "Spanish": "Spanisch",
+    "German": "Deutsch",
+    "French": "Französisch",
   },
-  fr: {
-    English: "Anglais",
-    Turkish: "Turc",
-    Spanish: "Espagnol",
-    German: "Allemand",
-    French: "Français",
+  "fr": {
+    "English": "Anglais",
+    "Turkish": "Turc",
+    "Spanish": "Espagnol",
+    "German": "Allemand",
+    "French": "Français",
   }
 }
