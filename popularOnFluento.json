@@ -2,9 +2,9 @@
   {
   "title": "Ordering Coffee Like a Local",
   "description": "A casual conversation guiding you through how to order coffee naturally in different coffee shop settings.",
-    "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/361-219x186.jpg?alt=media&token=1f01836d-ff27-44ea-86e9-90f758aeb769",
-    "topic": "Dining",
-    "language": "French",
+    "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/cafe.jpg?alt=media&token=79801dcf-e7aa-4ce1-afde-48195460549d",
+    "topic": "Ordering Coffee",
+    "language": "English",
   "conversation": [
     {
       "user": "Hey! I often feel a bit lost when ordering coffee at new places. Can you help me order coffee like a local?",
