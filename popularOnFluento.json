@@ -1,47 +1,48 @@
 [
   {
-    "title": "Space Exploration: Humanity’s Next Frontier",
-    "description": "A deep dive into the ambitions, challenges, and wonders of space travel and colonization.",
-    "imageUri": "https://cdn.jsdelivr.net/gh/ArslanArda/fluento-data@9ab4b44358f25bfad8e9b47d42f3956c3521d62b/74-219x186.jpg",
+  "title": "Ordering Coffee Like a Local",
+  "description": "A casual conversation guiding you through how to order coffee naturally in different coffee shop settings.",
+    "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/361-219x186.jpg?alt=media&token=1f01836d-ff27-44ea-86e9-90f758aeb769",
     "topic": "Dining",
     "language": "French",
-    "conversation": [
-      {
-        "user": "Do you think humans will live on Mars in our lifetime?",
-        "assistant": "That’s a fascinating question! With the pace of advancements in space technology, especially from companies like SpaceX, it’s definitely within the realm of possibility.",
-        "userSpeechUri": "https://cdn.jsdelivr.net/gh/ArslanArda/fluento-data@3f14e8fcebc8412aeb5b950dc15c9b46d19f8182/ash_gpt-4o-mini-tts_1x_2025-07-05T10_35_08-171Z.wav",
-        "assistantSpeechUri": "https://cdn.jsdelivr.net/gh/ArslanArda/fluento-data@b56a172d2d6c084b5b6d302bbb7de330866d541a/ash_gpt-4o-mini-tts_1x_2025-07-05T10_36_49-408Z.wav",
-        "userMessageBreakdown": {
-          "summary": "A speculative question about the future of human colonization on Mars.",
-          "breakdown": [
-            {
-              "part": "Do you think humans will live on Mars in our lifetime?",
-              "explanation": "A future-oriented question using 'will live' to express the possibility of permanent human presence on Mars within a specific timeframe."
-            }
-          ]
-        },
-        "translatedUserMessage": {
-          "translated_text": "Sence insanlar bizim yaşam süremiz içinde Mars'ta yaşayacak mı?"
-        },
-        "assistantMessageBreakdown": {
-          "summary": "Expresses enthusiasm about the question and points to rapid technological progress as evidence for the possibility.",
-          "breakdown": [
-            {
-              "part": "That’s a fascinating question!",
-              "explanation": "An expression of interest and enthusiasm in response to a speculative topic."
-            },
-            {
-              "part": "With the pace of advancements in space technology...",
-              "explanation": "Provides reasoning based on current trends and developments."
-            }
-          ]
-        },
-        "translatedAssistantMessage": {
-          "translated_text": "Bu büyüleyici bir soru! Uzay teknolojisindeki gelişme hızıyla, bu kesinlikle mümkün olabilir."
-        }
-      }
-    ]
-  },
+  "conversation": [
+    {
+      "user": "Hey! I often feel a bit lost when ordering coffee at new places. Can you help me order coffee like a local?",
+      "assistant": "Absolutely! Ordering coffee can be simple once you know the lingo and what to expect. Do you want tips for a typical coffee shop or more specialized places?"
+    },
+    {
+      "user": "Let's start with a typical coffee shop. What do people usually order there?",
+      "assistant": "In many countries, people often order an espresso, a latte, or a cappuccino. Knowing what each one means helps. For example, a latte is espresso with steamed milk, making it smooth and creamy."
+    },
+    {
+      "user": "Got it. And what if I want something quick and simple?",
+      "assistant": "An espresso shot is the quickest. But if you want something larger, you can ask for an Americano, which is espresso with hot water. It tastes a bit like regular black coffee."
+    },
+    {
+      "user": "What about customizing it? Like extra shots or milk alternatives?",
+      "assistant": "You can always ask for extra espresso shots if you want a stronger coffee. Also, many places offer milk alternatives like almond, oat, or soy milk—just say, 'Can I have a latte with oat milk, please?'"
+    },
+    {
+      "user": "Sometimes the menu has confusing names. How can I approach that?",
+      "assistant": "If you're unsure, don't hesitate to ask the barista for recommendations or what the drink contains. Saying, 'What do you recommend?' or 'What's popular here?' works well."
+    },
+    {
+      "user": "Good idea! And how do locals usually pay or tip?",
+      "assistant": "It depends on the country. In some places, tipping isn't expected, but in others, leaving a small tip is common. Paying is usually by card or cash; just watch what others do or ask politely."
+    },
+    {
+      "user": "If I want to sound more natural, is there a way to phrase my order better?",
+      "assistant": "Yes! Instead of just saying, 'Coffee, please,' you can say, 'Hi, can I get a medium cappuccino with an extra shot, please?' Polite small talk like 'How's your day going?' can help too."
+    },
+    {
+      "user": "Thanks! Any tips for ordering in busy places?",
+      "assistant": "In busy places, being clear and quick helps. Have your order ready, speak clearly, and be patient. Also, double-check your order before paying to avoid mistakes."
+    },
+    {
+      "user": "That makes sense. I feel more confident now about ordering coffee like a local.",
+      "assistant": "Great! Practice is key. Next time you're at a café, try these tips, and soon it'll feel natural. Enjoy your coffee adventures!"
+    }
+  ]},
   {
     "title": "The Future of Artificial Intelligence",
     "description": "A thoughtful exchange about how AI is reshaping our world and what the future might look like.",
