@@ -47,8 +47,8 @@
   "title": "Flirten auf einer Party",
   "description": "Ein lockeres Gespräch über Tipps und Erfahrungen beim Flirten auf Partys.",
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/party.jpg?alt=media&token=b19bc00e-0640-4699-810c-bf5011a088ae",
-    "topic": "Party Conversation",
-    "language": "Deutch",
+    "topic": "Party-Konversation",
+    "language": "Deutsch",
   "conversation": [
     {
       "user": "Hallo! Ich gehe heute Abend zu einer Party und würde gerne wissen, wie man dort am besten flirtet.",
@@ -88,8 +88,8 @@
   "title": "Parler de ses films préférés",
   "description": "Une conversation détendue sur les films favoris et les raisons pour lesquelles ils nous plaisent.",
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/movie.jpg?alt=media&token=34ac4b83-cb8c-449e-ba68-fe5323a4b530",
-    "language": "French",
-    "topic": "Movies",
+    "language": "Français",
+    "topic": "Films",
   "conversation": [
     {
       "user": "Bonjour! J'aimerais parler de mes films préférés et apprendre à en discuter plus naturellement. Tu peux m'aider?",
