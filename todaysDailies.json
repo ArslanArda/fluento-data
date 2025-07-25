@@ -49,7 +49,7 @@
   "description": "Eine natürliche Unterhaltung über Tipps und Erfahrungen beim Taxi fahren im Ausland.",
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/taxi.jpg?alt=media&token=009a7606-7f20-4008-9314-9207349bece9",
     "topic": "Reisen",
-    "language": "German",
+    "language": "Deutsch",
   "conversation": [
     {
       "user": "Hallo! Bald reise ich in eine fremde Stadt und möchte wissen, wie ich am besten ein Taxi nehme. Hast du Tipps für mich?",
