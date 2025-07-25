@@ -1,48 +1,50 @@
 [
   {
-  "title": "Ordering Coffee Like a Local",
-  "description": "A casual conversation guiding you through how to order coffee naturally in different coffee shop settings.",
-    "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/cafe.jpg?alt=media&token=79801dcf-e7aa-4ce1-afde-48195460549d",
-    "topic": "Ordering Coffee",
+  {
+  "title": "Nailing a Job Interview Abroad",
+  "description": "A natural conversation offering tips and advice on preparing for and succeeding in job interviews in a foreign country.",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/interview.jpg?alt=media&token=4b44d2e8-dd3d-498c-9281-63920c97a9c9",
+    "topic": "Job Interview",
     "language": "English",
   "conversation": [
     {
-      "user": "Hey! I often feel a bit lost when ordering coffee at new places. Can you help me order coffee like a local?",
-      "assistant": "Absolutely! Ordering coffee can be simple once you know the lingo and what to expect. Do you want tips for a typical coffee shop or more specialized places?"
+      "user": "Hi! I’ve got a job interview coming up overseas, and I’m feeling a bit nervous. Can you help me prepare?",
+      "assistant": "Absolutely! Interviewing abroad can be a great opportunity but also a bit challenging. Do you know what kind of interview it will be and what country it’s in?"
     },
     {
-      "user": "Let's start with a typical coffee shop. What do people usually order there?",
-      "assistant": "In many countries, people often order an espresso, a latte, or a cappuccino. Knowing what each one means helps. For example, a latte is espresso with steamed milk, making it smooth and creamy."
+      "user": "It’s a tech position in Germany. They said it will be a panel interview over video call.",
+      "assistant": "Great! Video panel interviews are common now. It’s important to get familiar with the cultural expectations and the technical setup. Are you comfortable with video calls?"
     },
     {
-      "user": "Got it. And what if I want something quick and simple?",
-      "assistant": "An espresso shot is the quickest. But if you want something larger, you can ask for an Americano, which is espresso with hot water. It tastes a bit like regular black coffee."
+      "user": "Mostly, but I want to sound confident and culturally aware. What should I keep in mind about interviewing in Germany?",
+      "assistant": "Germans generally appreciate punctuality, formality, and clear, direct communication. Make sure you join the video call a few minutes early and address interviewers respectfully."
     },
     {
-      "user": "What about customizing it? Like extra shots or milk alternatives?",
-      "assistant": "You can always ask for extra espresso shots if you want a stronger coffee. Also, many places offer milk alternatives like almond, oat, or soy milk—just say, 'Can I have a latte with oat milk, please?'"
+      "user": "Got it. How about answering questions? Any tips on framing my answers?",
+      "assistant": "Structure is key. Use the STAR method—Situation, Task, Action, Result—to answer behavioral questions clearly. Also, back your answers with examples from your experience."
     },
     {
-      "user": "Sometimes the menu has confusing names. How can I approach that?",
-      "assistant": "If you're unsure, don't hesitate to ask the barista for recommendations or what the drink contains. Saying, 'What do you recommend?' or 'What's popular here?' works well."
+      "user": "I’m worried about language barriers. The interview will be in English, but it might not be their first language. How do I handle that?",
+      "assistant": "Speak slowly and clearly without exaggerating. It’s okay to ask politely for clarification if you don’t understand something. Showing your willingness to communicate effectively is positive."
     },
     {
-      "user": "Good idea! And how do locals usually pay or tip?",
-      "assistant": "It depends on the country. In some places, tipping isn't expected, but in others, leaving a small tip is common. Paying is usually by card or cash; just watch what others do or ask politely."
+      "user": "Should I prepare questions to ask them at the end?",
+      "assistant": "Definitely! Asking thoughtful questions shows interest. For example, you can ask about the team’s culture, expectations for the role, or opportunities for growth."
     },
     {
-      "user": "If I want to sound more natural, is there a way to phrase my order better?",
-      "assistant": "Yes! Instead of just saying, 'Coffee, please,' you can say, 'Hi, can I get a medium cappuccino with an extra shot, please?' Polite small talk like 'How's your day going?' can help too."
+      "user": "What about the follow-up? How soon should I send a thank-you message?",
+      "assistant": "It’s best to send a brief thank-you email within 24 hours, expressing gratitude for the opportunity and reinforcing your enthusiasm."
     },
     {
-      "user": "Thanks! Any tips for ordering in busy places?",
-      "assistant": "In busy places, being clear and quick helps. Have your order ready, speak clearly, and be patient. Also, double-check your order before paying to avoid mistakes."
+      "user": "That sounds good. Any advice on dressing for the video interview?",
+      "assistant": "Dress professionally, just as you would for an in-person interview. Avoid distracting patterns, and choose solid, neutral colors. Make sure your background is tidy and well-lit."
     },
     {
-      "user": "That makes sense. I feel more confident now about ordering coffee like a local.",
-      "assistant": "Great! Practice is key. Next time you're at a café, try these tips, and soon it'll feel natural. Enjoy your coffee adventures!"
+      "user": "Thanks a lot! I feel much more prepared now to tackle my job interview abroad.",
+      "assistant": "You’re welcome! Stay calm and confident—you’ve got this. Good luck with your interview!"
     }
-  ]},
+  ]
+},
   {
     "title": "The Future of Artificial Intelligence",
     "description": "A thoughtful exchange about how AI is reshaping our world and what the future might look like.",
