@@ -44,48 +44,46 @@
     }
   ]},
   {
-    "title": "The Future of Artificial Intelligence",
-    "description": "A thoughtful exchange about how AI is reshaping our world and what the future might look like.",
-    "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/361-219x186.jpg?alt=media&token=1f01836d-ff27-44ea-86e9-90f758aeb769",
-    "topic": "Dining",
-    "language": "French",
-    "conversation": [
-      {
-        "user": "Do you think AI will eventually replace human jobs entirely?",
-        "assistant": "AI will likely automate many tasks, but I believe it will also create new opportunities. It’s more about transformation than total replacement.",
-        "userSpeechUri": "file:///.../ai_jobs.wav",
-        "assistantSpeechUri": "file:///.../mars_question.wav",
-        "userMessageBreakdown": {
-          "summary": "A question about the potential for AI to fully take over human employment.",
-          "breakdown": [
-            {
-              "part": "Do you think AI will eventually replace human jobs entirely?",
-              "explanation": "Uses future modal verb 'will' and adverb 'entirely' to ask whether AI could completely replace human workers."
-            }
-          ]
-        },
-        "translatedUserMessage": {
-          "translated_text": "Sence yapay zeka sonunda tüm insan işlerini tamamen devralacak mı?"
-        },
-        "assistantMessageBreakdown": {
-          "summary": "Explains that while automation is inevitable, new roles and transformations will occur rather than complete job loss.",
-          "breakdown": [
-            {
-              "part": "AI will likely automate many tasks...",
-              "explanation": "Predicts likely outcomes using the modal 'will likely'."
-            },
-            {
-              "part": "It’s more about transformation than total replacement.",
-              "explanation": "Contrasts two outcomes to provide a more optimistic view."
-            }
-          ]
-        },
-        "translatedAssistantMessage": {
-          "translated_text": "Yapay zeka muhtemelen birçok işi otomatikleştirecek, ama aynı zamanda yeni fırsatlar da yaratacak. Bu tamamen yer değiştirmekten çok dönüşümle ilgili."
-        }
-      }
-    ]
-  },
+  "title": "Flirten auf einer Party",
+  "description": "Ein lockeres Gespräch über Tipps und Erfahrungen beim Flirten auf Partys.",
+    "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/party.jpg?alt=media&token=b19bc00e-0640-4699-810c-bf5011a088ae",
+    "topic": "Party Conversation",
+    "language": "Deutch",
+  "conversation": [
+    {
+      "user": "Hallo! Ich gehe heute Abend zu einer Party und würde gerne wissen, wie man dort am besten flirtet.",
+      "assistant": "Hallo! Das klingt spannend. Flirten auf einer Party kann Spaß machen, aber wichtig ist, locker und selbstbewusst zu sein. Willst du ein paar Tipps?"
+    },
+    {
+      "user": "Ja, bitte! Wie fange ich ein Gespräch an, ohne komisch zu wirken?",
+      "assistant": "Ein guter Einstieg ist oft ein einfaches Kompliment oder eine Frage. Zum Beispiel: 'Hi, ich mag deine Musikrichtung. Was hörst du gerade am liebsten?' So wird das Gespräch ganz natürlich."
+    },
+    {
+      "user": "Und was sollte ich vermeiden, wenn ich jemanden interessant finde?",
+      "assistant": "Aufdringlichkeit ist ein großes No-Go. Wenn die Person nicht interessiert wirkt, respektiere das und zieh dich zurück. Auch zu viel Alkohol kann das Flirtverhalten negativ beeinflussen."
+    },
+    {
+      "user": "Wie kann ich nonverbal zeigen, dass ich Interesse habe?",
+      "assistant": "Lächeln ist super wichtig! Auch Blickkontakt halten und sich ein bisschen in Richtung der Person drehen. Berührungen zum Beispiel an der Schulter können, wenn sie passend sind, Interesse signalisieren."
+    },
+    {
+      "user": "Das klingt hilfreich! Wie halte ich das Gespräch spannend?",
+      "assistant": "Stell offene Fragen, die mehr als nur Ja oder Nein brauchen. Zum Beispiel: 'Was gefällt dir an solchen Partys am meisten?' So bleibt das Gespräch lebendig."
+    },
+    {
+      "user": "Was, wenn ich nervös werde und nicht weiß, was ich sagen soll?",
+      "assistant": "Das ist ganz normal! Atme tief durch und denk daran, dass es nur ein Gespräch ist. Du kannst auch über die Umgebung sprechen oder gemeinsam lachen, wenn etwas Lustiges passiert."
+    },
+    {
+      "user": "Soll ich direkt nach der Nummer fragen, wenn das Gespräch gut läuft?",
+      "assistant": "Ja, wenn die Stimmung stimmt, kannst du ganz locker fragen: 'Möchtest du mal zusammen einen Kaffee trinken oder Nummern austauschen?' Ehrlichkeit kommt meistens gut an."
+    },
+    {
+      "user": "Danke für die Tipps! Ich fühle mich jetzt sicherer für die Party heute Abend.",
+      "assistant": "Gern geschehen! Viel Spaß auf der Party und denk daran, einfach du selbst zu sein. Das ist das Wichtigste beim Flirten."
+    }
+  ]
+},
   {
     "title": "Music and Emotion: The Power of Sound",
     "description": "An emotional and analytical chat about how music affects our mood, memory, and culture.",
