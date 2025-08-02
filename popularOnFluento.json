@@ -5,6 +5,7 @@
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/cafe.jpg?alt=media&token=79801dcf-e7aa-4ce1-afde-48195460549d",
     "topic": "Ordering Coffee",
     "language": "English",
+    "shortLanguage": "en-US",
   "conversation": [
     {
       "user": "Hey! I often feel a bit lost when ordering coffee at new places. Can you help me order coffee like a local?",
@@ -49,6 +50,7 @@
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/party.jpg?alt=media&token=b19bc00e-0640-4699-810c-bf5011a088ae",
     "topic": "Party-Konversation",
     "language": "Deutsch",
+    "shortLanguage": "de-DE",
   "conversation": [
     {
       "user": "Hallo! Ich gehe heute Abend zu einer Party und würde gerne wissen, wie man dort am besten flirtet.",
@@ -90,6 +92,7 @@
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/movie.jpg?alt=media&token=34ac4b83-cb8c-449e-ba68-fe5323a4b530",
     "language": "Français",
     "topic": "Films",
+    "shortLanguage": "fr-FR",
   "conversation": [
     {
       "user": "Bonjour! J'aimerais parler de mes films préférés et apprendre à en discuter plus naturellement. Tu peux m'aider?",
