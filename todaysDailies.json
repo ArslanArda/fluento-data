@@ -5,6 +5,7 @@
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/interview.jpg?alt=media&token=4b44d2e8-dd3d-498c-9281-63920c97a9c9",
     "topic": "Job Interview",
     "language": "English",
+    "shortLanguage": "en-US",
     "conversation": [
       {
         "user": "Hi! I’ve got a job interview coming up overseas, and I’m feeling a bit nervous. Can you help me prepare?",
@@ -50,6 +51,7 @@
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/taxi.jpg?alt=media&token=009a7606-7f20-4008-9314-9207349bece9",
     "topic": "Reisen",
     "language": "Deutsch",
+    "shortLanguage": "de-DE",
   "conversation": [
     {
       "user": "Hallo! Bald reise ich in eine fremde Stadt und möchte wissen, wie ich am besten ein Taxi nehme. Hast du Tipps für mich?",
@@ -91,6 +93,7 @@
     "imageUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/booking.jpg?alt=media&token=c5cf1c2d-498c-40df-93ff-cc1017268c9f",
     "language": "Español",
     "topic": "Reservar un Airbnb",
+    "shortLanguage": "es-ES",
   "conversation": [
     {
       "user": "Hola, estoy pensando en viajar y necesito encontrar un lugar para quedarme. ¿Crees que es mejor alquilar un apartamento o reservar un Airbnb?",
