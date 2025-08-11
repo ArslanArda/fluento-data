@@ -9,6 +9,7 @@
   "conversation": [
     {
       "user": "Hey! I often feel a bit lost when ordering coffee at new places. Can you help me order coffee like a local?",
+      "userSpeechUri": "https://firebasestorage.googleapis.com/v0/b/fluento-39df7.firebasestorage.app/o/ash_gpt-4o-mini-tts_1x_2025-08-11T21_00_09-422Z.wav?alt=media&token=13b69f8b-7d23-4c81-aff8-7ebe9e1ceb74",
       "assistant": "Absolutely! Ordering coffee can be simple once you know the lingo and what to expect. Do you want tips for a typical coffee shop or more specialized places?"
     },
     {
